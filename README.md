@@ -1,5 +1,7 @@
 # IoT-Mini-Project-
 
+Project is done under the supervision of guide allocated to the team and by following his valuable suggestions .
+
 ## Video Link of IoT Mini Project  
 >>   Mini Project | Team members | Drive Link
 >>   --- | --- | ---
